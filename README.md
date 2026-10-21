@@ -98,6 +98,8 @@ This part helped me understand how Athena can query large datasets stored in S3 
 
 ![Athena Query Results](AWS%20Screenshots/12-athena-query-results.png)
 
+*The screenshots above show the `gdelt` database with its five tables and a sample query. The additional queries described in this section (events by year, top event categories, Obama/Merkel events) were run during the lab; their results are summarized in the text.*
+
 ## What I Learned
 
 This workshop helped me understand how AWS services work together in a data engineering pipeline. Before this, I had mostly practiced data transformation and SQL separately, so it was useful to see how streaming, storage, cataloging, transformation, and analytics connect in one workflow.
